@@ -1,55 +1,25 @@
 {
-  "_args": [
-    [
-      "vueinp@1.0.7",
-      "D:\\yanling\\专项"
-    ]
-  ],
-  "_from": "vueinp@1.0.7",
-  "_id": "vueinp@1.0.7",
-  "_inBundle": false,
-  "_integrity": "sha512-WLr56cAC2TquW+8NdKt65potUsMXivFtyoj0+XrXLtL0UVoISksAEAAmUtp/hmTMQ0IOspJ59fUt8CGl01RK6Q==",
-  "_location": "/vueinp",
-  "_phantomChildren": {},
-  "_requested": {
-    "type": "version",
-    "registry": true,
-    "raw": "vueinp@1.0.7",
-    "name": "vueinp",
-    "escapedName": "vueinp",
-    "rawSpec": "1.0.7",
-    "saveSpec": null,
-    "fetchSpec": "1.0.7"
-  },
-  "_requiredBy": [
-    "/"
-  ],
-  "_resolved": "https://registry.npmjs.org/vueinp/-/vueinp-1.0.7.tgz",
-  "_spec": "1.0.7",
-  "_where": "D:\\yanling\\专项",
-  "author": {
-    "name": "zhengyanling"
-  },
-  "bugs": {
-    "url": "https://github.com/zyl123456/vueinp/issues"
-  },
-  "description": "别买了",
-  "directories": {
-    "lib": "lib"
-  },
-  "homepage": "https://github.com/zyl123456/vueinp#readme",
-  "keywords": [
-    "vueinp"
-  ],
-  "license": "MIT",
+  "name": "vuezx",
+  "version": "1.0.0",
+  "description": "智业健康专项",
   "main": "index.js",
-  "name": "vueinp",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/zyl123456/vueinp.git"
-  },
   "scripts": {
     "test": "make test"
   },
-  "version": "1.0.7"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zyl123456/vuezx.git"
+  },
+  "keywords": [
+    "vuezx"
+  ],
+  "author": "zhengyanling",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zyl123456/vuezx/issues"
+  },
+  "homepage": "https://github.com/zyl123456/vuezx#readme",
+  "directories": {
+    "lib": "lib"
+  }
 }
