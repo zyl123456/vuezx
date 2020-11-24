@@ -1,25 +1,25 @@
 {
-  "name": "vuezx",
-  "version": "1.1.1",
-  "description": "智业健康专项",
-  "main": "index.js",
-  "scripts": {
-    "test": "make test"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/zyl123456/vuezx.git"
-  },
-  "keywords": [
-    "vuezx"
-  ],
-  "author": "zhengyanling",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/zyl123456/vuezx/issues"
-  },
-  "homepage": "https://github.com/zyl123456/vuezx#readme",
-  "directories": {
-    "lib": "lib"
-  }
+    "name": "vuezx",
+    "version": "1.1.2",
+    "description": "智业健康专项",
+    "main": "index.js",
+    "scripts": {
+        "test": "make test"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/zyl123456/vuezx.git"
+    },
+    "keywords": [
+        "vuezx"
+    ],
+    "author": "zhengyanling",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/zyl123456/vuezx/issues"
+    },
+    "homepage": "https://github.com/zyl123456/vuezx#readme",
+    "directories": {
+        "lib": "lib"
+    }
 }
